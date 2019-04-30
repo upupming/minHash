@@ -1,0 +1,1 @@
+script: python3 $TRAVIS_BUILD_DIR/src/minHash.py
